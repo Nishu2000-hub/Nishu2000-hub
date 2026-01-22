@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I ME Myself:
 Graduate-level coursework and projects in machine learning, computer vision, and data science, with a focus on building things end-to-end rather than isolated demos.<br><br>👯 I’m looking to collaborate on<br>Course-driven or research-adjacent projects involving ML, AI pipelines, data analysis, or systems that combine multiple components (models, data, evaluation).<br><br>🤝 I’m looking for help with<br>Code reviews, better experiment design, and learning how to structure ML projects so they’re reproducible and not just “assignment-correct.”<br><br>🌱 I’m currently learning<br>Machine learning fundamentals, neural networks, computer vision, LLMs, and how modern AI systems are built using Python, APIs, and ML frameworks.<br><br>💬 Ask me about<br>ML coursework, computer vision projects, building AI pipelines from scratch, or how to approach complex assignments without getting lost.<br><br>⚡ Fun fact<br>Most of my projects start messy — I care more about understanding why something works than polishing it too early.
 
 
